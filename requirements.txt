@@ -1,0 +1,8 @@
+confluent_kafka
+pymongo
+cassandra-driver
+pyspark
+kafka-python
+json5
+requests
+spark
